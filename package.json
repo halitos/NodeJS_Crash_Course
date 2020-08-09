@@ -13,5 +13,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halitos/NodeJS_Crash_Course.git"
+  },
+  "keywords": [
+    "Crush",
+    "Course"
+  ],
+  "bugs": {
+    "url": "https://github.com/halitos/NodeJS_Crash_Course/issues"
+  },
+  "homepage": "https://github.com/halitos/NodeJS_Crash_Course#readme"
 }
